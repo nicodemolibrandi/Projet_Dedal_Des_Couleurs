@@ -113,15 +113,27 @@
   	font-size: 36px;
   	color: #fff;
 }
+.frame7 {
+position: absolute;
+top: 1546px;;
+left:50px;
+border-radius: 30px;
+width: 441px;
+height: 417px;
+flex-shrink: 0;
+background: url(<path-to-image>) lightgray 50% 
+}
+
 .frame2 {
-  	position: absolute;
-  	top: 1546px;
-  	left: 50px;
-  	border-radius: 30px;
-  	width: 441px;
-  	height: 417px;
-  	overflow: hidden;
-  	object-fit: cover;
+	position: absolute;
+	z-index: 0px;
+	top: 2px;
+	width: 1250px;
+	display: inline-flex;
+	left: 0%;
+	padding: 0px 0px 0px 0px;
+	justify-content: flex-end;
+	align-items: center;
 }
 .macbook-air-1-item {
   	position: absolute;
@@ -223,4 +235,14 @@
   	font-size: 48px;
   	color: #000;
   	font-family: 'Jacques Francois';
+}
+/* Responsive design */ 
+	@media (max-width: 768px) {
+		navul {
+			/*flex-direction: column; */
+			background-color: aqua;
+}
+		form {
+			gap: 15px;
+}
 }
