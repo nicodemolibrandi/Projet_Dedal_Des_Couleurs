@@ -1,0 +1,274 @@
+.frame-child {
+	max-width: 100%; /* Image responsive */
+  	position: absolute;
+  	top: 713px;
+  	left: 97px;
+  	background-color: #000;
+  	width: 1270px;
+  	height: 3179px;
+  	overflow: hidden;
+}
+.macbook-air-1-inner {
+	max-width: 100%; /* Image responsive */
+  	position: absolute;
+  	top: 179px;
+  	left: -57px;
+  	width: 1337px;
+  	height: 597px;
+  	overflow: hidden;
+  	background-image: url('Frame 2');
+  	background-size: cover;
+  	background-repeat: no-repeat;
+  	background-position: top;
+}
+.dedal-des-couleurs {
+	max-width: 100%; /* Image responsive */
+  	margin: 0;
+}
+.dedal-des-couleurs-container {
+	max-width: 100%; /* Image responsive */
+  	position: absolute;
+  	top: 790px;
+  	left: 125px;
+  	font-size: 64px;
+  	color: rgba(15, 26, 151, 0.9);
+}
+.niche-au-cur {
+	max-width: 100%; /* Image responsive */
+  	position: absolute;
+  	top: 13px;
+  	left: 33px;
+  	display: inline-block;
+  	width: 1089px;
+  	height: 426px;
+}
+.niche-au-cur-du-marais-la-n-wrapper {
+	max-width: 100%; /* Image responsive */
+  	position: absolute;
+  	top: 976px;
+  	left: 50px;
+  	box-shadow: 30px 13px 30px #000;
+  	border-radius: 50px;
+  	background-color: #b2b2b2;
+  	width: 1156px;
+  	height: 451px;
+  	overflow: hidden;
+  	font-size: 32px;
+  	font-family: 'Otomanopee One';
+}
+.abonnez-vous-la {
+	max-width: 100%; /* Image responsive */
+  	position: absolute;
+  	top: 50px;
+  	left: 47px;
+  	text-shadow: 1px 0 0 #000, 0 1px 0 #000, -1px 0 0 #000, 0 -1px 0 #000;
+}
+.abonnez-vous-la-newsletter-wrapper {
+	max-width: 100%; /* Image responsive */
+  	position: absolute;
+  	top: 99px;
+  	left: 205px;
+  	box-shadow: 30px 13px 30px #000;
+  	border-radius: 50px;
+  	background-color: #fff;
+  	width: 826px;
+  	height: 147px;
+  	overflow: hidden;
+  	color: #000;
+}
+.frame-item {
+	max-width: 100%; /* Image responsive */
+  	position: absolute;
+  	top: 328px;
+  	left: 382px;
+  	box-shadow: 30px 13px 30px #000;
+  	border-radius: 50px;
+  	background-color: #fff;
+  	width: 552px;
+  	height: 66px;
+  	overflow: hidden;
+}
+.frame-inner {
+	max-width: 100%; /* Image responsive */
+  	position: absolute;
+  	top: 522px;
+  	left: 382px;
+  	box-shadow: 30px 13px 30px #000;
+  	border-radius: 50px;
+  	background-color: #fff;
+  	width: 552px;
+  	height: 66px;
+  	overflow: hidden;
+}
+.nom {
+    max-width: 100%; /* Image responsive */
+  	position: absolute;
+  	top: 337px;
+  	left: 245px;
+}
+.email {
+	max-width: 100%; /* Image responsive */
+  	position: absolute;
+  	top: 522px;
+  	left: 205px;
+}
+.frame-parent {
+	max-width: 100%; /* Image responsive */
+  	position: absolute;
+  	top: 3257px;
+  	left: 0px;
+  	box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  	border-radius: 100px;
+  	background: linear-gradient(180deg, #f1c0e2, #fdfdff 19.5%, #d3abc4 43%, #b392bb 67.5%);
+  	width: 1280px;
+  	height: 669px;
+  	overflow: hidden;
+  	font-size: 36px;
+  	color: #fff;
+}
+.frame7 {
+max-width: 100%; /* Image responsive */
+position: absolute;
+top: 1546px;;
+left:50px;
+border-radius: 30px;
+width: 441px;
+height: 417px;
+flex-shrink: 0;
+background: url(<path-to-image>) lightgray 50% 
+}
+
+.frame2 {
+	max-width: 100%; /* Image responsive */
+	background-image: url(galerie/Frame\ 2.jpg);
+	position: relative;
+	z-index: 0px;
+	top: 2px;
+	width: 1250px;
+	display: inline-flex;
+	left: 0%;
+	padding: 0px 0px 0px 0px;
+	justify-content: flex-end;
+	align-items: center;
+}
+.macbook-air-1-item {
+	max-width: 100%; /* Image responsive */
+  	position: absolute;
+  	top: 1546px;
+  	left: 558px;
+  	border-radius: 30px;
+  	width: 634px;
+  	height: 410px;
+  	overflow: hidden;
+  	object-fit: cover;
+}
+.frame-icon {
+	max-width: 100%; /* Image responsive */
+  	position: absolute;
+  	top: 2446px;
+  	left: 50px;
+  	border-radius: 30px;
+  	width: 441px;
+  	height: 417px;
+  	overflow: hidden;
+  	object-fit: cover;
+}
+.macbook-air-1-child1 {
+	max-width: 100%; /* Image responsive */
+  	position: absolute;
+  	top: 1996px;
+  	left: 50px;
+  	border-radius: 30px;
+  	width: 441px;
+  	height: 417px;
+  	overflow: hidden;
+  	object-fit: cover;
+}
+.pascin-picasso-et {
+	max-width: 100%; /* Image responsive */
+  	position: absolute;
+  	top: 28.74px;
+  	left: 30.43px;
+  	display: inline-block;
+  	width: 557.1px;
+  	text-shadow: 1px 0 0 #000, 0 1px 0 #000, -1px 0 0 #000, 0 -1px 0 #000;
+  	transform:  rotate(0.1deg);
+  	transform-origin: 0 0;
+}
+.pascin-picasso-et-kikoine-ch-wrapper {
+	max-width: 100%; /* Image responsive */
+  	position: absolute;
+  	top: 1995px;
+  	left: 560px;
+  	border-radius: 50px;
+  	background-color: #c2a0a0;
+  	width: 615px;
+  	height: 883px;
+  	overflow: hidden;
+  	font-size: 42px;
+}
+.macbook-air-1-child2 {
+	max-width: 100%; /* Image responsive */
+  	position: absolute;
+  	top: 2911px;
+  	left: 26px;
+  	border-radius: 40px;
+  	width: 1227px;
+  	height: 235px;
+  	overflow: hidden;
+  	object-fit: cover;
+}
+.venez-nous-rencontrer {
+	max-width: 100%; /* Image responsive */
+  	position: absolute;
+  	top: 3146px;
+  	left: 90px;
+  	text-shadow: 1px 0 0 #000, 0 1px 0 #000, -1px 0 0 #000, 0 -1px 0 #000;
+}
+.menu {
+    position: fixed; /* Fixe le menu en haut de la page */
+    top: 0;
+    left: 0;
+    width: 100%; /* Le menu prend toute la largeur */
+    background-color: rgba(0, 0, 0, 0.6); /* Fond semi-transparent */
+    color: rgb(136, 137, 133); /* Couleur du texte */
+    z-index: 10; /* Toujours au-dessus de l'image */
+    padding: 15px 20px;
+    display: flex; /* Permet d'aligner les éléments horizontalement */
+    justify-content: center; /* Centre les liens horizontalement */
+    gap: 20px; /* Espacement entre les liens */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Ajoute une ombre */
+}
+.macbook-air-1 {
+  	width: 100%;
+  	position: relative;
+  	background-color: #fff;
+  	height: 3928px;
+  	overflow: hidden;
+  	text-align: center;
+  	font-size: 48px;
+  	color: #000;
+  	font-family: 'Jacques Francois';
+}
+@media (max-width: 480px) {
+    body {
+        font-size: 12px;
+    }
+
+    .menu {
+        display: none; /* Cacher un menu par exemple */
+    }
+
+    .header {
+        text-align: center;
+    }
+	img {
+        max-width: 100%;
+        height: auto;
+    }
+	.container, .image-wrapper {
+		max-width: 100%; /* S'adapte à la largeur de l'écran */
+		overflow: hidden; /* Empêche le débordement */
+	}
+	}
+
